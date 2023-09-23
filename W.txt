@@ -1,0 +1,10 @@
+W: Hunting Posture
+
+Coen can recast this ability in 3 seconds.
+
+Preparing (first cast): Coen starts crawling and slows himself by 50%, this can last up to 3 seconds. If Coen is in bushes or Hiding, Coen becomes invisible.
+
+Hunting (recast): Coen gains 30%/40%/50%/60%/70% move speed and 10%/12.5%/15%/17.5%/20% tenacity for 3-5 seconds (depends on the duration of Preparing).
+
+
+Cooldown: 20/18/16/14/12 seconds

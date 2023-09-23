@@ -1,0 +1,21 @@
+Passive: Tiger Paw
+
+Coen could reveive 50%/75%/100% movement speed from boots at level 1/6/11. However, Coen has an additional item slot for exclusive forefoot boots only.
+
+Fire forefoot boot:
+Grants Coen 15 move speed. Elemental Annihilation(Q) deals damage equal to 10% targets' maximum health as true damage in 3 seconds.
+
+Ice forefoot boot:
+Grants Coen 15 move speed. Elemental Annihilation(Q) additionally slows the targets by 20% for 1.5 seconds.
+
+Rock forefoot boot:
+Grants Coen 10 move speed. Elemental Annihilation(Q) grants Coen 30 armor and magic resist for 3 seconds.
+
+Bush forefoot boot:
+Grants Coen 20 move speed. Elemental Annihilation(Q) let Coen starts Hiding for 2 seconds.
+
+Wind forefoot boot:
+Grants Coen 45 move speed.
+
+
+Each forefoot boot cost 900 gold.

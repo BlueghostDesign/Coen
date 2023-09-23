@@ -1,0 +1,12 @@
+E: Foraging
+
+Coen can recast this ability in 8 seconds.
+
+Hop on (first cast): Coen hops on the wall that the cursor is pointing at and can move on the wall. If Coen is at the edge of the wall, Coen becomes Camouflage. If Coen is at the center of the wall, Coen becomes Invisible.
+
+Hop off (recast): Coen jumps for 400/500/600/700/800 in range.
+
+Cooldown of this ability is reset on champion kill or assist.
+
+
+Cooldown: 20/18/16/14/10 seconds

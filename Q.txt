@@ -1,0 +1,7 @@
+Q: Elemental Annihilation
+
+Coen swings his paw in a half circle, deals 100/150/200/250/300 (+1/1.5/2/2.5/3 total AD) to all targets in side this area and slows them by 50% for 1/1.25/1.5/1.75/2 seconds. If Coen is Hunting, Elemental Annihilation stuns the targets in stead of slowing them.
+
+
+Range: 500
+Cooldown: 16/14/12/10/8 seconds

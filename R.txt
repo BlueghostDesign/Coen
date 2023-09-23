@@ -1,0 +1,10 @@
+R: Massacre
+
+Coen bits the target, dealing 300/550/800 (+1 total AD) physical damage, suppresses the target for 0.5/1/1.5 seconds and Coen can drag the target with him. Coen can recast this ability during suppression.
+
+recast: Coen throws the target in a direction for 600/700/800 in range, dealing 150/225/300 (+0.2 total AD) physical damage. If the target hits a wall, stuns the target for 0.5/1.1.5 seconds. If the target hits enemy champions, knocks them back for 100 in range and deal 150/225/300 (+0.2 total AD) physical damage to them as well.
+
+passive: Coen gains 15%/25%/35% armor penetration.
+
+
+Cooldown: 120/100/80 seconds
